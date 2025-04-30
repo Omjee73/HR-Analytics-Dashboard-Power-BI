@@ -38,13 +38,13 @@ Description: Contains anonymized employee information including: Department, Edu
 
 2. Research and Development department has the highest number of employees.
 
-3. Sales department shows a higher attrition rate compared to others.
+3. Research and Development department shows a higher attrition rate compared to others.
 
 4. Employees aged 25–35 years exhibit the highest attrition.
 
 5. Gender distribution shows a male-dominated workforce.
 
-6. The average employee tenure at the company is approximately 4.33 years.
+6. The average employee tenure at the company is approximately 7.01 years.
 
 ## Recommendations:
 
