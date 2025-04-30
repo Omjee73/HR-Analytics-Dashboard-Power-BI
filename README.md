@@ -34,7 +34,7 @@ Description: Contains anonymized employee information including: Department, Edu
 
 ## Key Insights:
 
-1. Majority of employees are concentrated in the 5k–10k salary slab.
+1. Majority of employees are concentrated in the upto 5k salary slab.
 
 2. Research and Development department has the highest number of employees.
 
